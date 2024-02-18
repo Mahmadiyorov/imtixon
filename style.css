@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+.header {
+    background-image: url(./img/Group\ 14.png);
+    background-size: cover;
+    padding: 0 0 180px 0;
+    width: 100%;
+}
+
+.header_content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 100%;
+    position: sticky;
+    height: 100px;
+    top: 0;
+}
+
+.cloud {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.budget {
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.header_links {
+    margin-top: 10px;
+}
+
+.links {
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-left: 8px;
+}
+
+.exam {
+    color: #FFFFFF;
+}
+
+.exit {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 12px 30px;
+    background: none;
+    border-color: #FFFFFF;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.header_main {
+    display: flex;
+    justify-content: center;
+}
+
+.warm {
+    font-size: 120px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-top: 140px;
+}
+
+.all {
+    font-size: 25px;
+    font-weight: 500;
+    color: #FFFFFF;
+    width: 420px;
+    text-align: center;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.strike {
+    color: #ED4C5C;
+}
+
+.button_1 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ED4C5C;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border-color: #FFFFFF;
+    padding: 15px 30px;
+    margin-left: 280px;
+    margin-top: 100px;
+}
+
+/* header finished */
+
+/* main started  */
+
+.main_div1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 90px;
+}
+
+.pagani {
+    font-size: 35px;
+    font-weight: 500;
+    color: #000000;
+    width: 420px;
+    max-width: 450px;
+}
+
+.mclaren {
+    font-size: 15px;
+    font-weight: 400;
+    color: #000000;
+    width: 420px;
+    margin-top: 20px;
+}
+
+.a_1 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ED4C5C;
+}
+
+opening tag: <h1>
+closing tag: </h1>
+accessibility: screen reader
+SEO: search emgine optimization 
+hesting: two spaces=indentation
+self-closing tags: img, br, hr.
+attributes: href, style, src, target, alt.
+alt=accessibility and loading error
+unordered list=ul ol
+target="blank"=new tab
+<img src="url" alt="text" (/)>
+above=tepa
+below=past
+pointer=ko'rsatgich
+wrapping=o'rash
+Contents: text, image, video, audio.
+
+app - dastur
+basic - boshlang'ich
+need to - kerak
+should - kerak
+sereval - bir nechta
+to provide - bermoq
+extra - qo'shimcha
+visible - ko'rinib turgan
+useful - foydali
+encode - shifirlamoq 
+note - eslatma
+optional - ixtiyoriy
+existing - mavjud
+eventually  -  oxir - oqibat
+give - bermoq
